@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+seaborn
+plotly
+regex
+nltk
+seaborn
+BeautifulSoup
