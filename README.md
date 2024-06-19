@@ -5,4 +5,4 @@
 - This could be useful to instantly provide answers to questions that have already been answered. 
 - We are tasked with predicting whether a pair of questions are duplicates or not. 
 
-image-1.png
+
