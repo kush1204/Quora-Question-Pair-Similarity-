@@ -11,10 +11,11 @@ It is a Binary Classification Problem, for a given pair of questions we need to 
 
  **Performance Metric Given in Kaggle**
 
- 1. Log-Loss (logarithimic loss)
+ 1. Log-Loss (logarithmic loss)
  2. Binary Confusion Matrix
 
 **Train & Test Construction**
+
 Randomly splitting in the ratio of 70:30 or 80:20 As we donot have time Stamp or its not a time series data we wont be doing Temporal splitting . 
 
 
