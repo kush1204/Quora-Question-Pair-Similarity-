@@ -6,4 +6,6 @@ plotly
 regex
 nltk
 seaborn
-BeautifulSoup
+bs4
+fuzzywuzzy
+wordcloud
